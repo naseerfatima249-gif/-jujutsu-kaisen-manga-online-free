@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jujutsu-kaisen-manga-online-free.render/app/sitemap.xml
